@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pina-booking-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7f39f3b033bf853c28201f81d14cea306b8c8d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba9aa974f0786daf40df6de2ae89337431ab4632")]
 [assembly: System.Reflection.AssemblyProductAttribute("pina-booking-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pina-booking-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
